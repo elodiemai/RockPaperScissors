@@ -54,13 +54,13 @@ header h2 {
     height: 30%;
 }
 
-i {
+img {
     padding: 0;
     padding: 1.5rem;
     text-align: center;    
 }
 
-i:hover {
+img:hover {
     padding: 1.8rem;
     border: 7px rgb(222, 222, 222) solid;
     box-shadow: 5px 5px 1px var(--shadow-color) ;
